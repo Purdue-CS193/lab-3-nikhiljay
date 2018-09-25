@@ -9,6 +9,3 @@ public class BuggyUtilClient {
         StringUtils.makePurdueUsername("Sean", "Flannery"));
     }
 }
-
-
-
